@@ -1,0 +1,105 @@
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\JBray\Downloads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Jonathon\Downloads\Kendra Bubble Butt\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Jbray\Downloads\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Domin\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\JBray\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojAssemblyReference.cache
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Jonbr\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojAssemblyReference.cache
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Jonbr\Downloads\C#\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojAssemblyReference.cache
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Jonathon\Downloads\C#\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojAssemblyReference.cache
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+E:\University\Year_1\assignmentNet107\C#\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
